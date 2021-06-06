@@ -13,70 +13,70 @@ namespace BlazorApp.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 1 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 2 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 3 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 4 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 5 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 6 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 7 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 8 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 9 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using BlazorApp;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "e:\Documents\nardjes\BlazorApp\_Imports.razor"
+#line 10 "E:\Documents\nardjes\BlazorApp\_Imports.razor"
 using BlazorApp.Shared;
 
 #line default
@@ -90,7 +90,7 @@ using BlazorApp.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "e:\Documents\nardjes\BlazorApp\Shared\NavMenu.razor"
+#line 28 "E:\Documents\nardjes\BlazorApp\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
